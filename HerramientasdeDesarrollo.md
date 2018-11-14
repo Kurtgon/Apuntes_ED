@@ -1,5 +1,2 @@
-Entornos de Desarrollo
-
-Herramientas de Desarrollo
-
-Introducción
+Pruebas con el editor de código
+para entregar los ejercicios
